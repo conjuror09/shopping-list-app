@@ -1,3 +1,4 @@
 # Viritual environment
 venv/
 .venv/
+.env
